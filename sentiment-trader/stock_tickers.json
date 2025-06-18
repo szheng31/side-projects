@@ -1,0 +1,1182 @@
+{
+    "NaN": [],
+    "Marine Transportation": [
+        "BIP",
+        "CCL",
+        "CUK",
+        "GD",
+        "RCL",
+        "VIK"
+    ],
+    "Specialty Chemicals": [
+        "CLX",
+        "CSL",
+        "KVUE"
+    ],
+    "Consumer Electronics/Appliances": [
+        "EMR",
+        "GE",
+        "OTIS",
+        "SN",
+        "SONY"
+    ],
+    "Investment Managers": [
+        "AMP",
+        "APO",
+        "APOS",
+        "ARES",
+        "BEN",
+        "BX",
+        "CG",
+        "HLI",
+        "KKR",
+        "MORN",
+        "OWL",
+        "TPG"
+    ],
+    "Natural Gas Distribution": [
+        "DTM",
+        "ENB",
+        "EPD",
+        "ET",
+        "KMI",
+        "MPLX",
+        "NGG",
+        "PAA",
+        "SRE",
+        "SREA",
+        "TRGP",
+        "TRP",
+        "WES",
+        "WMB"
+    ],
+    "Oil & Gas Production": [
+        "AR",
+        "BIPJ",
+        "CNQ",
+        "CTRA",
+        "CVE",
+        "DVN",
+        "E",
+        "EC",
+        "EOG",
+        "EQT",
+        "EXE",
+        "EXEEL",
+        "EXEEW",
+        "FANG",
+        "OKE",
+        "OVV",
+        "OXY",
+        "PBA",
+        "PBR",
+        "PR",
+        "SHEL",
+        "TPL",
+        "TTE",
+        "VNOM",
+        "WDS"
+    ],
+    "Trucking Freight/Courier Services": [
+        "JBHT",
+        "ODFL",
+        "UPS",
+        "ZTO"
+    ],
+    "Packaged Foods": [
+        "ADM",
+        "BG",
+        "CAG",
+        "GIS",
+        "K",
+        "KHC",
+        "MDLZ",
+        "MKC",
+        "SJM"
+    ],
+    "Biotechnology: Commercial Physical & Biological Resarch": [
+        "ICLR",
+        "INCY",
+        "IQV"
+    ],
+    "Power Generation": [
+        "AEE",
+        "CMS",
+        "DUK",
+        "DUKB",
+        "ED",
+        "EVRG",
+        "EXC",
+        "LNT",
+        "NI",
+        "PCG",
+        "PEG",
+        "WEC",
+        "XEL"
+    ],
+    "Farming/Seeds/Milling": [
+        "CTVA"
+    ],
+    "Biotechnology: Electromedical & Electrotherapeutic Apparatus": [
+        "MDT"
+    ],
+    "Trusts Except Educational Religious and Charitable": [],
+    "Integrated oil Companies": [
+        "BP",
+        "COP",
+        "CVX",
+        "EQNR",
+        "HES",
+        "IMO",
+        "MPC",
+        "PSX",
+        "SU",
+        "VLO",
+        "XOM",
+        "YPF"
+    ],
+    "Electronic Components": [
+        "COHR",
+        "KLAC",
+        "NTAP",
+        "PSTG",
+        "STX",
+        "TEL",
+        "WDC"
+    ],
+    "EDP Services": [
+        "ADP",
+        "CTSH",
+        "DOCS",
+        "DOX",
+        "GDDY",
+        "INFY",
+        "IOT",
+        "JKHY",
+        "LDOS",
+        "NEE",
+        "QXO",
+        "RDDT",
+        "TOST",
+        "VRSK",
+        "VRSN",
+        "WDAY",
+        "WIT",
+        "ZS"
+    ],
+    "Major Chemicals": [
+        "APD",
+        "DD",
+        "DOW",
+        "IFF",
+        "LIN",
+        "LYB"
+    ],
+    "Diversified Commercial Services": [
+        "ABNB",
+        "AER",
+        "ALLE",
+        "PAYX",
+        "ROL",
+        "URI"
+    ],
+    "Radio And Television Broadcasting And Communications Equipment": [
+        "ERIC",
+        "MSI",
+        "NOK",
+        "QCOM",
+        "UI"
+    ],
+    "Property-Casualty Insurers": [
+        "ACGL",
+        "AFG",
+        "AIZ",
+        "ALL",
+        "BNT",
+        "CB",
+        "CINF",
+        "CNA",
+        "EG",
+        "HIG",
+        "KNSL",
+        "L",
+        "MKL",
+        "PGR",
+        "RNR",
+        "TRV",
+        "WRB"
+    ],
+    "Medical Electronics": [
+        "GEHC",
+        "HOLX",
+        "PHG"
+    ],
+    "Real Estate": [
+        "BEKE",
+        "BPYPM",
+        "BPYPN",
+        "BPYPO",
+        "BPYPP",
+        "CBRE",
+        "INVH",
+        "JLL"
+    ],
+    "Water Sewer Pipeline Comm & Power Line Construction": [
+        "MTZ"
+    ],
+    "Miscellaneous": [
+        "FERG"
+    ],
+    "General Bldg Contractors - Nonresidential Bldgs": [],
+    "Textiles": [],
+    "Medical/Dental Instruments": [
+        "BAX",
+        "BDX",
+        "BSX",
+        "DXCM",
+        "MMM",
+        "PEN",
+        "PODD",
+        "RMD",
+        "SOLV",
+        "SYK",
+        "WST"
+    ],
+    "Semiconductors": [
+        "ADI",
+        "ALAB",
+        "AMAT",
+        "AMD",
+        "ARM",
+        "ASX",
+        "AVGO",
+        "CRDO",
+        "FSLR",
+        "GFS",
+        "INTC",
+        "MCHP",
+        "MCHPP",
+        "MPWR",
+        "MRVL",
+        "MU",
+        "NVDA",
+        "NXPI",
+        "ON",
+        "STM",
+        "SWKS",
+        "TSM",
+        "TXN",
+        "UMC"
+    ],
+    "Environmental Services": [
+        "CLH",
+        "GFL",
+        "RSG",
+        "WCN",
+        "WM"
+    ],
+    "Oil Refining/Marketing": [
+        "CHRW",
+        "EXPD"
+    ],
+    "Professional and commerical equipment": [],
+    "Other Consumer Services": [
+        "BAM",
+        "IT",
+        "RTO",
+        "SCI",
+        "SE"
+    ],
+    "Meat/Poultry/Fish": [
+        "HRL",
+        "JBS",
+        "PPC",
+        "TSN"
+    ],
+    "Biotechnology: Laboratory Analytical Instruments": [
+        "A",
+        "MTD",
+        "RVTY",
+        "WAT"
+    ],
+    "Air Freight/Delivery Services": [
+        "DAL",
+        "FDX",
+        "LTM",
+        "LUV",
+        "RYAAY",
+        "UAL"
+    ],
+    "Hospital/Nursing Management": [
+        "EHC",
+        "HCA",
+        "THC",
+        "UHS"
+    ],
+    "Professional Services": [
+        "BAH",
+        "GIB"
+    ],
+    "Coal Mining": [
+        "BHP"
+    ],
+    "Mining & Quarrying of Nonmetallic Minerals (No Fuels)": [
+        "MLM",
+        "TECK",
+        "VMC"
+    ],
+    "Cable & Other Pay Television Services": [
+        "CCZ",
+        "CHTR",
+        "CMCSA",
+        "LBRDA",
+        "LBRDK",
+        "RCI",
+        "ROKU",
+        "WBD"
+    ],
+    "Aluminum": [],
+    "Computer Communications Equipment": [
+        "ANET",
+        "CSCO",
+        "FFIV",
+        "JNPR"
+    ],
+    "Office Equipment/Supplies/Services": [
+        "GWW"
+    ],
+    "Shoe Manufacturing": [
+        "DECK",
+        "NKE",
+        "ONON"
+    ],
+    "Specialty Foods": [
+        "HSY"
+    ],
+    "Food Distributors": [
+        "DPZ",
+        "PFGC",
+        "SYY",
+        "USFD"
+    ],
+    "Finance Companies": [],
+    "Blank Checks": [],
+    "Computer Software: Prepackaged Software": [
+        "ADBE",
+        "ADSK",
+        "ANSS",
+        "BSY",
+        "CDNS",
+        "CHKP",
+        "CRM",
+        "CRWD",
+        "CRWV",
+        "CYBR",
+        "DDOG",
+        "DOCU",
+        "DT",
+        "DUOL",
+        "EA",
+        "GEN",
+        "GWRE",
+        "HUBS",
+        "INTU",
+        "MANH",
+        "MDB",
+        "MNDY",
+        "MSFT",
+        "MSTR",
+        "NET",
+        "NICE",
+        "NOW",
+        "NTES",
+        "NTNX",
+        "OKTA",
+        "ORCL",
+        "PAYC",
+        "PLTR",
+        "PTC",
+        "RBLX",
+        "RBRK",
+        "SAIL",
+        "SAP",
+        "SHOP",
+        "SNOW",
+        "SNPS",
+        "SSNC",
+        "STRD",
+        "STRF",
+        "STRK",
+        "TEAM",
+        "TTWO",
+        "TWLO",
+        "TYL",
+        "U",
+        "VEEV",
+        "XYZ",
+        "YMM"
+    ],
+    "Recreational Games/Products/Toys": [],
+    "Tools/Hardware": [],
+    "Savings Institutions": [
+        "HSBC"
+    ],
+    "Broadcasting": [
+        "FOX",
+        "FOXA",
+        "FWONA",
+        "FWONK",
+        "PARAA",
+        "SPOT",
+        "TME"
+    ],
+    "Plastic Products": [
+        "ATR",
+        "ENTG"
+    ],
+    "Auto Parts:O.E.M.": [
+        "APTV",
+        "MGA",
+        "TT"
+    ],
+    "Ophthalmic Goods": [
+        "ALC",
+        "COO"
+    ],
+    "Rental/Leasing Companies": [
+        "UHAL"
+    ],
+    "Package Goods/Cosmetics": [
+        "CHD",
+        "CL",
+        "ECL",
+        "EL",
+        "HLN",
+        "PG",
+        "UL"
+    ],
+    "Hotels/Resorts": [
+        "H",
+        "HLT",
+        "HTHT",
+        "IHG",
+        "LVS",
+        "MAR"
+    ],
+    "Department/Specialty Retail Stores": [
+        "BJ",
+        "BURL",
+        "COST",
+        "DG",
+        "DLTR",
+        "TGT",
+        "WMT"
+    ],
+    "Electrical Products": [
+        "APH",
+        "CLS",
+        "FLEX",
+        "HUBB",
+        "JBL",
+        "TER",
+        "VLTO"
+    ],
+    "Catalog/Specialty Distribution": [
+        "AMZN",
+        "CDW",
+        "CHWY",
+        "CPNG"
+    ],
+    "Medical Specialities": [
+        "CI",
+        "CNC",
+        "DGX",
+        "ELV",
+        "EXAS",
+        "HUM",
+        "ILMN",
+        "LH",
+        "MOH",
+        "NTRA",
+        "UNH"
+    ],
+    "Tobacco": [],
+    "Building operators": [
+        "BN",
+        "BNH",
+        "BNJ"
+    ],
+    "Industrial Specialties": [
+        "ALGN",
+        "EW",
+        "ISRG",
+        "MAS",
+        "POOL",
+        "SNN",
+        "STE",
+        "ZBH"
+    ],
+    "Metal Fabrications": [
+        "BKR",
+        "CR",
+        "FTI",
+        "HWM",
+        "PH",
+        "RBC",
+        "RS",
+        "SMR"
+    ],
+    "Building Materials": [
+        "CRH",
+        "CX",
+        "JHX"
+    ],
+    "Agricultural Chemicals": [
+        "CF",
+        "MOS",
+        "NTR"
+    ],
+    "Investment Bankers/Brokers/Service": [
+        "BLK",
+        "CBOE",
+        "CME",
+        "FUTU",
+        "GS",
+        "HOOD",
+        "IBKR",
+        "ICE",
+        "JEF",
+        "LPLA",
+        "MS",
+        "NDAQ",
+        "NMR",
+        "RJF",
+        "SCHW",
+        "SEIC",
+        "SF",
+        "TROW",
+        "TW",
+        "XP"
+    ],
+    "Wholesale Distributors": [],
+    "Engineering & Construction": [
+        "APG",
+        "EME",
+        "FIX",
+        "PWR"
+    ],
+    "Home Furnishings": [
+        "SGI",
+        "WSM"
+    ],
+    "Durable Goods": [
+        "CNM"
+    ],
+    "Movies/Entertainment": [],
+    "Auto Manufacturing": [
+        "F",
+        "GM",
+        "HMC",
+        "LI",
+        "PCAR",
+        "RACE",
+        "RIVN",
+        "STLA",
+        "TM",
+        "TSLA",
+        "XPEV"
+    ],
+    "Clothing/Shoe/Accessory Stores": [
+        "ROST",
+        "TJX"
+    ],
+    "Telecommunications Equipment": [
+        "AMX",
+        "ASTS",
+        "BCE",
+        "CHT",
+        "CIEN",
+        "GLW",
+        "T",
+        "TBB",
+        "TEF",
+        "TLK",
+        "TMUS",
+        "TU",
+        "VIV",
+        "VOD",
+        "VZ"
+    ],
+    "Retail-Drug Stores and Proprietary Stores": [
+        "CVS"
+    ],
+    "Diversified Financial Services": [
+        "IX"
+    ],
+    "Consumer Electronics/Video Chains": [
+        "BBY",
+        "NFLX"
+    ],
+    "Water Supply": [
+        "AWK",
+        "SBS",
+        "WTRG"
+    ],
+    "Commercial Banks": [
+        "BAP",
+        "BBVA",
+        "BCH",
+        "BCS",
+        "BMO",
+        "BSAC",
+        "BSBR",
+        "CM",
+        "HDB",
+        "IBN",
+        "ING",
+        "KB",
+        "LYG",
+        "MUFG",
+        "NWG",
+        "RY",
+        "SAN",
+        "SMFG",
+        "TD",
+        "WF"
+    ],
+    "Services-Misc. Amusement & Recreation": [
+        "DIS",
+        "DKNG",
+        "LYV",
+        "TKO",
+        "WMG"
+    ],
+    "Steel/Iron Ore": [
+        "ATI",
+        "CRS",
+        "MT",
+        "NUE",
+        "PKX",
+        "STLD",
+        "TS",
+        "X"
+    ],
+    "Miscellaneous manufacturing industries": [
+        "AMCR"
+    ],
+    "Oil/Gas Transmission": [
+        "ATO",
+        "CQP",
+        "LNG",
+        "VG"
+    ],
+    "Managed Health Care": [],
+    "Metal Mining": [
+        "FCX",
+        "RIO",
+        "SCCO",
+        "SOJE",
+        "VALE"
+    ],
+    "Railroads": [
+        "CNI",
+        "CP",
+        "CSX",
+        "NSC",
+        "UNP",
+        "WAB"
+    ],
+    "Finance/Investors Services": [
+        "CET"
+    ],
+    "Computer Software: Programming Data Processing": [
+        "APP",
+        "BIDU",
+        "FDS",
+        "FLUT",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "NBIS",
+        "PINS",
+        "SNAP",
+        "TEM",
+        "TTD",
+        "ZM"
+    ],
+    "Retail-Auto Dealers and Gas Stations": [
+        "CASY",
+        "CPRT",
+        "CVNA",
+        "KMX",
+        "PAG"
+    ],
+    "Electric Utilities: Central": [
+        "AEP",
+        "AQNB",
+        "BEP",
+        "BEPC",
+        "CEG",
+        "CNP",
+        "D",
+        "DTE",
+        "EBR",
+        "EIX",
+        "EMA",
+        "ES",
+        "ETR",
+        "FE",
+        "FTS",
+        "KEP",
+        "NRG",
+        "PNW",
+        "PPL",
+        "SO",
+        "SOJC",
+        "SOJD",
+        "TLN",
+        "VST"
+    ],
+    "Advertising": [
+        "OMC"
+    ],
+    "Newspapers/Magazines": [
+        "NWS",
+        "NWSA"
+    ],
+    "Specialty Insurers": [
+        "AJG",
+        "AON",
+        "BRO",
+        "EQH",
+        "ERIE",
+        "FNF",
+        "MMC",
+        "RYAN",
+        "WTW"
+    ],
+    "Publishing": [
+        "TRI"
+    ],
+    "Automotive Aftermarket": [
+        "GPC"
+    ],
+    "Misc Health and Biotechnology Services": [
+        "DVA",
+        "FMS"
+    ],
+    "Pollution Control Equipment": [],
+    "Building Products": [],
+    "Computer peripheral equipment": [
+        "FTNT",
+        "LOGI",
+        "PANW"
+    ],
+    "RETAIL: Building Materials": [
+        "BLDR",
+        "FAST",
+        "HD",
+        "LOW",
+        "SHW",
+        "TSCO"
+    ],
+    "Life Insurance": [
+        "AEG",
+        "AIG",
+        "CRBG",
+        "MET",
+        "MFC",
+        "PRU",
+        "PUK",
+        "RGA",
+        "SLF"
+    ],
+    "Ordnance And Accessories": [
+        "AXON"
+    ],
+    "Precision Instruments": [
+        "ULS"
+    ],
+    "Fluid Controls": [
+        "GGG",
+        "IEX",
+        "ITT",
+        "XYL"
+    ],
+    "Restaurants": [
+        "ARMK",
+        "BROS",
+        "CMG",
+        "DRI",
+        "MCD",
+        "QSR",
+        "SBUX",
+        "TXRH",
+        "YUM",
+        "YUMC"
+    ],
+    "Oilfield Services/Equipment": [
+        "HAL",
+        "SLB"
+    ],
+    "Other Transportation": [],
+    " Medicinal Chemicals and Botanical Products ": [
+        "BTI",
+        "MO",
+        "PM",
+        "RGC"
+    ],
+    "Construction/Ag Equipment/Trucks": [
+        "CAT",
+        "CNH"
+    ],
+    "Finance: Consumer Services": [
+        "AFRM",
+        "ARCC",
+        "AXP",
+        "CHYM",
+        "COIN",
+        "CRCL",
+        "EFX",
+        "MCO",
+        "NU",
+        "RKT",
+        "SLMBP",
+        "SOFI",
+        "SPGI",
+        "SYF",
+        "TRU"
+    ],
+    "Paper": [
+        "IP",
+        "SUZ"
+    ],
+    "Electronics Distribution": [
+        "GME"
+    ],
+    "Biotechnology: Biological Products (No Diagnostic Substances)": [
+        "AMGN",
+        "ARGX",
+        "BIIB",
+        "BNTX",
+        "EXEL",
+        "GILD",
+        "MRNA",
+        "NBIX",
+        "QGEN"
+    ],
+    "Other Pharmaceuticals": [
+        "CAH",
+        "COR",
+        "MCK"
+    ],
+    "Biotechnology: Pharmaceutical Preparations": [
+        "ABBV",
+        "ABT",
+        "ALNY",
+        "ASND",
+        "AZN",
+        "BMRN",
+        "BMY",
+        "GMAB",
+        "GSK",
+        "INSM",
+        "JNJ",
+        "LLY",
+        "MRK",
+        "NVO",
+        "NVS",
+        "ONC",
+        "PFE",
+        "RDY",
+        "REGN",
+        "RPRX",
+        "SMMT",
+        "SNY",
+        "TAK",
+        "TEVA",
+        "UTHR",
+        "VRTX",
+        "VTRS",
+        "ZTS"
+    ],
+    "Banks": [],
+    "Forest Products": [],
+    "Other Metals and Minerals": [
+        "CCJ"
+    ],
+    "Misc Corporate Leasing Services": [
+        "FTAI"
+    ],
+    "Pharmaceuticals and Biotechnology": [],
+    "Multi-Sector Companies": [],
+    "Retail: Computer Software & Peripheral Equipment": [
+        "HPE",
+        "SNX"
+    ],
+    "Aerospace": [
+        "BA",
+        "HEI",
+        "HON",
+        "PAC",
+        "RTX",
+        "SARO",
+        "TXT"
+    ],
+    "Industrial Machinery/Components": [
+        "AME",
+        "ASML",
+        "BWXT",
+        "CARR",
+        "CMI",
+        "CW",
+        "DE",
+        "DHR",
+        "DOV",
+        "DRS",
+        "ETN",
+        "FTV",
+        "GRMN",
+        "IR",
+        "ITW",
+        "JCI",
+        "KEYS",
+        "LECO",
+        "LHX",
+        "LII",
+        "LRCX",
+        "NDSN",
+        "NOC",
+        "NVT",
+        "OC",
+        "PNR",
+        "ROK",
+        "ROP",
+        "SNA",
+        "SWK",
+        "SYM",
+        "TDY",
+        "TMO",
+        "TRMB",
+        "VRT",
+        "WSO",
+        "WWD",
+        "ZBRA"
+    ],
+    "Real Estate Investment Trusts": [
+        "AGNCL",
+        "AGNCM",
+        "AGNCN",
+        "AGNCO",
+        "AGNCP",
+        "AMH",
+        "AMT",
+        "ARE",
+        "AVB",
+        "BXP",
+        "CCI",
+        "CPT",
+        "DLR",
+        "DOC",
+        "ELS",
+        "EQIX",
+        "EQR",
+        "ESS",
+        "EXR",
+        "GLPI",
+        "HST",
+        "IRM",
+        "KIM",
+        "LAMR",
+        "MAA",
+        "NLY",
+        "O",
+        "OHI",
+        "PLD",
+        "PSA",
+        "REG",
+        "SBAC",
+        "SPG",
+        "SUI",
+        "UDR",
+        "VICI",
+        "VTR",
+        "WELL",
+        "WPC",
+        "WY"
+    ],
+    "Diversified Electronic Products": [],
+    "Auto & Home Supply Stores": [
+        "AZO",
+        "ORLY"
+    ],
+    "Homebuilding": [
+        "DHI",
+        "LEN",
+        "NVR",
+        "PHM",
+        "TOL"
+    ],
+    "Precious Metals": [
+        "AEM",
+        "AGI",
+        "AU",
+        "B",
+        "FNV",
+        "GFI",
+        "KGC",
+        "NEM",
+        "PAAS",
+        "RGLD",
+        "WPM"
+    ],
+    "Other Specialty Stores": [
+        "DKS",
+        "JD",
+        "ULTA"
+    ],
+    "Beverages (Production/Distribution)": [
+        "ABEV",
+        "BUD",
+        "CCEP",
+        "CELH",
+        "DEO",
+        "FMX",
+        "KDP",
+        "KO",
+        "KOF",
+        "MNST",
+        "PEP",
+        "PRMB",
+        "STZ"
+    ],
+    "Biotechnology: In Vitro & In Vivo Diagnostic Substances": [
+        "IDXX"
+    ],
+    "Containers/Packaging": [
+        "AVY",
+        "BALL",
+        "CCK",
+        "KMB",
+        "PKG",
+        "SW"
+    ],
+    "Apparel": [
+        "AS",
+        "CTAS",
+        "LULU",
+        "RL",
+        "TPR"
+    ],
+    "Consumer Specialties": [],
+    "Accident &Health Insurance": [
+        "AFL",
+        "PFG",
+        "UNM"
+    ],
+    "Paints/Coatings": [
+        "PPG",
+        "RPM"
+    ],
+    "Medical/Nursing Services": [
+        "BTSGU",
+        "HIMS"
+    ],
+    "Food Chains": [
+        "ACI",
+        "KR",
+        "SFM"
+    ],
+    "Major Banks": [
+        "ALLY",
+        "BAC",
+        "BBD",
+        "BBDO",
+        "BK",
+        "BNS",
+        "C",
+        "CFG",
+        "COF",
+        "DB",
+        "EWBC",
+        "FCNCA",
+        "FITB",
+        "FITBI",
+        "FITBO",
+        "FITBP",
+        "HBAN",
+        "HBANL",
+        "HBANM",
+        "HBANP",
+        "ITUB",
+        "JPM",
+        "KEY",
+        "MFG",
+        "MTB",
+        "NTRS",
+        "PNC",
+        "RF",
+        "SHG",
+        "STT",
+        "TFC",
+        "UBS",
+        "USB",
+        "VLYPN",
+        "VLYPO",
+        "VLYPP",
+        "WFC"
+    ],
+    "Motor Vehicles": [],
+    "Computer Manufacturing": [
+        "AAPL",
+        "DELL",
+        "HPQ",
+        "IBM",
+        "SMCI"
+    ],
+    "Business Services": [
+        "ACN",
+        "AKAM",
+        "BABA",
+        "BR",
+        "CART",
+        "CPAY",
+        "CSGP",
+        "DASH",
+        "EBAY",
+        "FI",
+        "FICO",
+        "FIS",
+        "GPN",
+        "GRAB",
+        "MA",
+        "MELI",
+        "MSCI",
+        "PDD",
+        "PYPL",
+        "RBA",
+        "RELX",
+        "TCOM",
+        "UBER",
+        "V",
+        "Z",
+        "ZG"
+    ],
+    "Transportation Services": [
+        "BKNG",
+        "EXPE",
+        "MMYT",
+        "XPO"
+    ],
+    "Books": [],
+    "Military/Government/Technical": [
+        "ACM",
+        "ESLT",
+        "FER",
+        "J",
+        "LMT",
+        "RKLB",
+        "STN",
+        "TDG"
+    ]
+}
